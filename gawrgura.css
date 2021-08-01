@@ -82,7 +82,7 @@
 /*--------------weapon aim system*/
 /*-------scope*/
 #maskmiddle {
-    background: url('http://127.0.0.1:8887/extensions/img/scopeImg.png') center center no-repeat;
+    background: url('https://cdn.discordapp.com/attachments/871295606113583115/871301519193022465/scopeImg.png') center center no-repeat;
     background-size: contain;
     width: 100vh;
     height: 100vh;
@@ -221,13 +221,13 @@
 /*-------homepage*/
 /*background*/
 #ss_background {
-	background: url(http://127.0.0.1:8887/extensions/img/mainWall.png);
+	background: url(https://cdn.discordapp.com/attachments/871295606113583115/871302331143172126/mainWall.png);
 	background-repeat: no-repeat;
     background-size: cover;
 }
 
 #load_screen {
-  background: url(http://127.0.0.1:8887/extensions/img/mainEmpty.png);
+  background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301483130400768/mainEmpty.png);
 }
 header.weapon-select weapon-select--title pause-bg roundme_sm {
    background-attachment: red;
@@ -243,7 +243,7 @@ header.weapon-select weapon-select--title pause-bg roundme_sm {
     z-index: 20;
     width: 100%;
     height: 100%;
-    background-image: url(http://127.0.0.1:8887/extensions/img/mainEmpty.png);
+    background-image: url(https://cdn.discordapp.com/attachments/871295606113583115/871301483130400768/mainEmpty.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -252,7 +252,7 @@ header.weapon-select weapon-select--title pause-bg roundme_sm {
 .front_panel {
 	border: var(--ss-space-sm) solid var(--ss-blue3);
 	margin-top: 0.6em;
-	background-image: url(http://127.0.0.1:8887/extensions/img/sideWall.jpg);
+	background-image: url(https://cdn.discordapp.com/attachments/871295606113583115/871301538893688862/sideWall.jpg);
 	padding: var(--ss-space-lg);
 	min-width: 21.2em;
 	max-width: 21.2em;
@@ -260,7 +260,7 @@ header.weapon-select weapon-select--title pause-bg roundme_sm {
 }
 
 .media-tabs-content.front_panel {
-    background: url(http://127.0.0.1:8887/extensions/img/sideWall.jpg);
+    background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301538893688862/sideWall.jpg);
     margin: 0 auto;
     height: 15em;
  
@@ -303,7 +303,7 @@ h3{
 
 /*fuckin importent, otherwise u won't have img on the side panel in mainwall*/
 .media-tabs-content.front_panel {
-    background: url(http://127.0.0.1:8887/extensions/img/sideWall.jpg) !important;
+    background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301538893688862/sideWall.jpg) !important;
     margin: 0 auto;
     height: 15em; 
 }
@@ -411,14 +411,14 @@ h3{
 	border: var(--ss-space-sm) solid var(--ss-blue3);
 }
 #equip_sidebox {
-    background-image: url("http://127.0.0.1:8887/extensions/img/sideWall.jpg");
+    background-image: url("https://cdn.discordapp.com/attachments/871295606113583115/871301538893688862/sideWall.jpg");
     border: var(--ss-space-sm) solid var(--ss-blue3);
     min-width: 21em;
 }
 
 /*shop item background*/
 #equip_grid .store_item {
-	background: url("http://127.0.0.1:8887/extensions/img/chooseWall.jpg");
+	background: url("https://cdn.discordapp.com/attachments/871295606113583115/871301343619461140/chooseWall.jpg");
 	position: relative;
 	border: var(--ss-space-sm) solid var(--ss-blue4);
 	font-weight: bold;
@@ -438,7 +438,7 @@ h3{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	background: url(http://127.0.0.1:8887/extensions/img/chooseWall.jpg);
+	background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301343619461140/chooseWall.jpg);
 	margin: 0 0 var(--ss-space-sm) 0;
 	color: var(--ss-white);
 	font-weight: bold;
@@ -456,7 +456,7 @@ h3{
     background: none;
 }
 #weapon_select .weapon_selected {
-    background: url(http://127.0.0.1:8887/extensions/img/chooseWall.jpg);
+    background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301343619461140/chooseWall.jpg);
     border: none;
 }
 
@@ -466,11 +466,11 @@ h3{
 	color: var(--ss-white);
 }
 #equip_grid .store_item:hover {
-    background: url(http://127.0.0.1:8887/extensions/img/chooseWall.jpg);
+    background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301343619461140/chooseWall.jpg);
     border: none;
 }
 #equip_grid .highlight {
-    background:  url(http://127.0.0.1:8887/extensions/img/chooseWall.jpg) !important;
+    background:  url(https://cdn.discordapp.com/attachments/871295606113583115/871301343619461140/chooseWall.jpg) !important;
     border: none;
 }
 
@@ -501,7 +501,7 @@ h3{
 
 /*player slot*/
 .playerSlot-player-is-me {
-	background: url(http://127.0.0.1:8887/extensions/img/playerColor.jpg);
+	background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301500884881438/playerColor.jpg);
 	color: var(--ss-black);
  
 }
@@ -516,7 +516,7 @@ h3{
 	transform: translateX(-50%);
 	display: inline-block;
 	width: 6em; height: 6em;
-	background: url(http://127.0.0.1:8887/extensions/img/healthWall.jpg);
+	background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301435936092200/healthWall.jpg);
 	border-radius: 50%;
 	text-align: center;
 }
@@ -550,7 +550,7 @@ h3{
 	position: absolute;
     display: flex;
     flex-direction: column;
-    background: url(http://127.0.0.1:8887/extensions/img/loadWall.jpg);
+    background: url(https://cdn.discordapp.com/attachments/871295606113583115/871301455393460254/loadWall.jpg);
     align-items: center;
     padding: var(--ss-space-lg);
     color: var(--ss-black);
