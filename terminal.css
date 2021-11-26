@@ -2,5 +2,5 @@
 @font-face {
     font-family: "Hack";
     src: local("Hack"),
-         url(fonts/Hack.woff2) format("woff2");
+         url(Hack.woff2) format("woff2");
 }
